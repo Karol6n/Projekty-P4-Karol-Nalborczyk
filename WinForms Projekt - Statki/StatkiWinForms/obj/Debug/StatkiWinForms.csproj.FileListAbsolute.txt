@@ -1,0 +1,10 @@
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\obj\Debug\StatkiWinForms.csprojAssemblyReference.cache
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\obj\Debug\StatkiWinForms.Form1.resources
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\obj\Debug\StatkiWinForms.Properties.Resources.resources
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\obj\Debug\StatkiWinForms.csproj.GenerateResource.cache
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\obj\Debug\StatkiWinForms.csproj.CoreCompileInputs.cache
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\bin\Debug\StatkiWinForms.exe.config
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\bin\Debug\StatkiWinForms.exe
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\bin\Debug\StatkiWinForms.pdb
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\obj\Debug\StatkiWinForms.exe
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr 4\Programowanie 4\Laboratoria\WinForms Projekt - Statki\StatkiWinForms\obj\Debug\StatkiWinForms.pdb
